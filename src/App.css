@@ -3,7 +3,7 @@
 
 
 .App {
-  font-family: 'Creepster' sans-serif;
+  font-family: 'Creepster' , sans-serif;
   text-align: center;
   background-color: rgb(144, 5, 5);
   
@@ -12,7 +12,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(136, 0, 255);
   margin: 0;
   display: flex;
 }

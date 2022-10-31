@@ -1,5 +1,5 @@
-import MovieList from "./components/MovieList";
 import Header from "./components/Header";
+import MovieList from "./components/MovieList";
 import "./App.css";
 import Footer from "./components/Footer";
 
@@ -8,6 +8,8 @@ function App() {
     <div className="App">
       <Header />
       <MovieList />
+      {/* we will change so  */}
+
       <Footer />
     </div>
   );
